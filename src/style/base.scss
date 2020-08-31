@@ -1,0 +1,16 @@
+body {
+    margin: 0px; 
+    font-family: 'Inconsolata', monospace;
+    background-image: url(../../static/assets/images/auth/zenspa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
